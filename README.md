@@ -6,9 +6,9 @@ proyectos y mis intereses.
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
 ## Información personal
-* Nombre: [Tu nombre]
-* Ocupación: [Tu ocupación]
-* Lugar de residencia: [Tu lugar de residencia]
+* Nombre: Melissa Ayllon
+* Ocupación: Estudiante de Ingeniería de Software
+* Lugar de residencia: Ecuador, Guayaquil.
 * Sitio web: [Tu sitio web]
 ## Proyectos
 * [Lista de tus proyectos]
