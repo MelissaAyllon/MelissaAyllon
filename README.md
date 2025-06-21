@@ -1,70 +1,35 @@
-# Melissa Ayllon - Personal Website
+# Melissa Ayllon
 
-Welcome to my personal website! Here you can find detailed information about me, my projects, and my professional interests.
-
----
-
-## Table of Contents
-1. [Personal Information](#personal-information)
-2. [Projects](#projects)
-3. [Interests](#interests)
+Welcome to my personal space! Here, you’ll find a snapshot of my journey, projects, and passions.
 
 ---
 
-## Personal Information
-
+## 👩‍💻 About Me
 - **Name**: Melissa Ayllon  
-- **Occupation**: Software Engineering Student  
-- **Website**: [https://melissaayllon.github.io/MelissaAyllon/](https://melissaayllon.github.io/MelissaAyllon/)
+- **Role**: Software Engineering Student  
+- **Website**: [Visit my site](https://melissaayllon.github.io/MelissaAyllon/)
 
 ---
 
-## Projects
+## 📂 Projects
 
-### 1. Implementation of FirmaEc
-- **Description**: Developed a digital document signing system for a decentralized institution, aiming to streamline and secure the signing process.
-- **Technologies**: 
-  - JavaEE
-  - PostgreSQL
-  - Docker
-  - Wildfly Server
-  - RedHat9
+**FirmaEc Implementation**  
+Streamlined document signing for a decentralized institution.  
+*Technologies*: JavaEE, PostgreSQL, Docker, Wildfly, RedHat9.
 
-### 2. Development of a Purchase Request Application in PowerApps
-- **Description**: Created a system to manage client purchase requests, following an established institutional workflow, enhancing efficiency in procurement processes.
-- **Technologies**: 
-  - Microsoft Power Platform
-  - PowerApps
-  - HTML
-  - CSS
+**Purchase Request App in PowerApps**  
+Created a system for managing client purchase requests.  
+*Technologies*: PowerApps, Microsoft Power Platform, HTML, CSS.
 
 ---
 
-## Interests
+## 🔧 Interests
 
-### Technology
-- **Areas of Focus**: 
-  - Web Development
-  - Artificial Intelligence
-  - Linux OS
-  - Cybersecurity
-  - Business Logic
-  - Software Architecture
-
-### Sports
-- Volleyball
-- Swimming
-- Walking
-
-### Reading
-- Science Fiction
-- Historical Novels
-
-### Music
-- Jazz
-- Pop
-- Rock
+- **Tech**: Web Development, AI, Linux OS, Software Architecture
+- **Sports**: Volleyball, Swimming, Walking
+- **Reading**: Sci-Fi, Historical Novels
+- **Music**: Pop, Rock, K-Pop
 
 ---
 
-Feel free to explore my website and learn more about my work. For collaboration or inquiries, don’t hesitate to reach out.
+Feel free to explore and connect!
