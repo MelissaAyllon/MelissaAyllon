@@ -1,23 +1,70 @@
-# Mi sitio personal
-Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
-proyectos y mis intereses.
-## Contenido
-* [Información personal](#información-personal)
-* [Proyectos](#proyectos)
-* [Intereses](#intereses)
-## Información personal
-* Nombre: Melissa Ayllon
-* Ocupación: Estudiante de Ingeniería de Software
-* Sitio web: https://melissaayllon.github.io/MelissaAyllon/
-## Proyectos
-* <span style="color:#7F8C8D">Proyecto 1:</span> Implementación de FirmaEc
-    - **Descripción**: Se desarrolló el sistema de FirmaEc para una institución descentralizada con el objetivo de optimizar la firma de los documentos.
-    - **Tecnologías**: JavaEE, Postgresql, Docker, WildflyServer, RedHat9.
-* <span style="color:#7F8C8D">Proyecto 2:</span> Desarrollo de aplicacion de compras en PowerApps
-    - **Descripción**: Este sistema permite a los clientes realizar solicitudes de compras siguiendo el flujo establecido por una institución.
-    - **Tecnologías**: Microsoft PowerPlataform, PowerApps, Html, CSS.
-## Intereses
-- **Tecnología:** Desarrollo web, Inteligencia artificial, Linux OS, Ciberseguridad, Lógica del negocio, Arquitectura de software.
-- **Deportes:** Voleyball, Natación, Caminata.
-- **Lectura:** Ciencia ficción, Novelas históricas.
-- **Música:** Jazz, Pop, Rock.
+# Melissa Ayllon - Personal Website
+
+Welcome to my personal website! Here you can find detailed information about me, my projects, and my professional interests.
+
+---
+
+## Table of Contents
+1. [Personal Information](#personal-information)
+2. [Projects](#projects)
+3. [Interests](#interests)
+
+---
+
+## Personal Information
+
+- **Name**: Melissa Ayllon  
+- **Occupation**: Software Engineering Student  
+- **Website**: [https://melissaayllon.github.io/MelissaAyllon/](https://melissaayllon.github.io/MelissaAyllon/)
+
+---
+
+## Projects
+
+### 1. Implementation of FirmaEc
+- **Description**: Developed a digital document signing system for a decentralized institution, aiming to streamline and secure the signing process.
+- **Technologies**: 
+  - JavaEE
+  - PostgreSQL
+  - Docker
+  - Wildfly Server
+  - RedHat9
+
+### 2. Development of a Purchase Request Application in PowerApps
+- **Description**: Created a system to manage client purchase requests, following an established institutional workflow, enhancing efficiency in procurement processes.
+- **Technologies**: 
+  - Microsoft Power Platform
+  - PowerApps
+  - HTML
+  - CSS
+
+---
+
+## Interests
+
+### Technology
+- **Areas of Focus**: 
+  - Web Development
+  - Artificial Intelligence
+  - Linux OS
+  - Cybersecurity
+  - Business Logic
+  - Software Architecture
+
+### Sports
+- Volleyball
+- Swimming
+- Walking
+
+### Reading
+- Science Fiction
+- Historical Novels
+
+### Music
+- Jazz
+- Pop
+- Rock
+
+---
+
+Feel free to explore my website and learn more about my work. For collaboration or inquiries, don’t hesitate to reach out.
