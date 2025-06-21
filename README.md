@@ -2,14 +2,12 @@
 
 Welcome to my personal space! Here, you’ll find a snapshot of my journey, projects, and passions.
 
----
 
 ## 👩‍💻 About Me
 - **Name**: Melissa Ayllon  
 - **Role**: Software Engineering Student  
 - **Website**: [Visit my site](https://melissaayllon.github.io/MelissaAyllon/)
 
----
 
 ## 📂 Projects
 
@@ -21,7 +19,6 @@ Streamlined document signing for a decentralized institution.
 Created a system for managing client purchase requests.  
 *Technologies*: PowerApps, Microsoft Power Platform, HTML, CSS.
 
----
 
 ## 🔧 Interests
 
@@ -30,6 +27,5 @@ Created a system for managing client purchase requests.
 - **Reading**: Sci-Fi, Historical Novels
 - **Music**: Pop, Rock, K-Pop
 
----
 
 Feel free to explore and connect!
