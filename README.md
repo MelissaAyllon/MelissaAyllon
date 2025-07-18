@@ -15,9 +15,17 @@ Welcome to my personal space! Here, you’ll find a snapshot of my journey, proj
 Streamlined document signing for a decentralized institution.  
 *Technologies*: JavaEE, PostgreSQL, Docker, Wildfly, RedHat9.
 
-**Purchase Request App in PowerApps**  
+**Purchase Request App**  
 Created a system for managing client purchase requests.  
 *Technologies*: PowerApps, Microsoft Power Platform, HTML, CSS.
+
+**Dashboard Data Transformation**  
+Transformed datasets to enable insightful visualizations and reporting in a business intelligence dashboard.  
+*Technologies*: Python, PowerBI.
+
+**Big Data Transformation with PySpark and Databricks**  
+Leveraged PySpark and Databricks for efficient transformation and analysis of large datasets, optimizing processing workflows.  
+*Technologies*: Python, PySpark, Databricks.
 
 
 ## 🔧 Interests
